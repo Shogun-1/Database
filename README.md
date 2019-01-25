@@ -1,5 +1,6 @@
 # Database
 An ordinary database, that supports the following operations: adding, removing, printing some data
+
 Available commands:
 1) Adding event: Add Date Event
 2) Removing event: Del Date Event
