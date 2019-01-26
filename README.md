@@ -12,23 +12,6 @@ Available commands:
 6) Exiting the program: End
 
 Example:  
-Add 2018-10-10 studying  
-Add 2018-11-11 playing  
-Add 2018-12-12 walking  
-Add 2018-12-12 driving  
-Find 2018-11-11  
-Del 2018-11-11 playing  
-Find 2018-12-12  
-Del 2018-12-12  
-Print  
-End  
 
-Ouput:  
-playing  
-Deleted successfully  
-driving  
-walking  
-Deleted 2 events  
-2018-10-10 studying  
 
 
