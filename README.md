@@ -11,7 +11,7 @@ Available commands:
 5) Printing ALL events: Print
 6) Exiting the program: End
 
-Example:
+Example:  
 Add 2018-10-10 studying  
 Add 2018-11-11 playing  
 Add 2018-12-12 walking  
