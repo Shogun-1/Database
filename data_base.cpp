@@ -124,6 +124,7 @@ ostream& operator<< (ostream& stream, const Date& date) {
 
 class Database {
 public:
+  // All supported operations are below
   void AddEvent (const Date& date, const string& event)
   {
 	  d_map[date].insert(event);
