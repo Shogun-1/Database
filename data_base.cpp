@@ -31,7 +31,7 @@ private:
   int day;
 };
 
-// Below there are 3 operator overloadings for Date class
+// Below there are 3 operator overloadings for the Date class
 bool operator<(const Date& lhs, const Date& rhs) {
 	if (lhs.GetYear() != rhs.GetYear())
 	{
