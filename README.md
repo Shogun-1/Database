@@ -1,4 +1,4 @@
-# Project-1
+# database
 An ordinary database, that supports the following operations: adding, removing, printing some data.
 
 ***Date format: YYYY-MM-DD***
